@@ -1,0 +1,284 @@
+<svg fill="none" viewBox="0 0 500 70" width="500" height="70" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				:root {
+					--red-color: #d80000;
+				}
+				
+				#esdras-glitched {
+					/* width: 25vw; */
+					margin: 25px auto;
+				}
+
+				#esdras-glitched > h1 {
+					font-family: Haettenschweiler, 
+					Impact, 
+					'Arial Narrow Bold', 
+					'Franklin Gothic Medium',
+					Cambria,
+					Cochin,
+					Times, 
+					fantasy;
+					text-align: center;
+					color: #000;
+					font-size: 3em;
+					letter-spacing: 10px;
+					font-weight: 900;
+					font-weight: 400;
+					text-transform: capitalize;
+
+					margin: 0;
+					line-height: 0;
+
+					/* Animação */
+					animation: glitch1 2.5s infinite;
+				}
+
+				#esdras-glitched > h1:nth-child(2) {
+					color: #24fcff;
+					animation: glitch2 2.5s infinite;
+				}
+
+				#esdras-glitched > h1:nth-child(3) {
+					color: #d80000;
+					animation: glitch3 2.5s infinite;
+				}
+				/* #esdras-glitched > h1:nth-child(2) {
+					color: #67f3da;
+					animation: glitch2 2.5s infinite;
+				}
+
+				#esdras-glitched > h1:nth-child(3) {
+					color: #f16f6f;
+					animation: glitch3 2.5s infinite;
+				} */
+
+				/* .::Keyframes::. */
+
+				/* GlItCh 1 */
+				@keyframes glitch1 {
+					0% {
+						transform: none;
+						opacity: 1;
+					}
+					7% {
+						transform: skew(-0.5deg, -0.9deg);
+						opacity: 0.75;
+					}
+					10% {
+						transform: none;
+						opacity: 1;
+					}
+					27% {
+						transform: none;
+						opacity: 1;
+					}
+					30% {
+						transform: skew(0.8deg, -0.1deg);
+						opacity: 0.75;
+					}
+					35% {
+						transform: none;
+						opacity: 1;
+					}
+					52% {
+						transform: none;
+						opacity: 1;
+					}
+					55% {
+						transform: skew(-1deg, 0.2deg);
+						opacity: 0.75;
+					}
+					50% {
+						transform: none;
+						opacity: 1;
+					}
+					72% {
+						transform: none;
+						opacity: 1;
+					}
+					75% {
+						transform: skew(0.4deg, 1deg);
+						opacity: 0.75;
+					}
+					80% {
+						transform: none;
+						opacity: 1;
+					}
+					100% {
+						transform: none;
+						opacity: 1;
+					}
+				}
+
+				/* GlItCh 2 */
+				@keyframes glitch2 {
+					0% {
+						transform: none;
+						opacity: 0.25;
+					}
+					7% {
+						transform: translate(-2px, -3px);
+						opacity: 0.5;
+					}
+					10% {
+						transform: none;
+						opacity: 0.25;
+					}
+					27% {
+						transform: none;
+						opacity: 0.25;
+					}
+					30% {
+						transform: translate(-5px, -2px);
+						opacity: 0.5;
+					}
+					35% {
+						transform: none;
+						opacity: 0.25;
+					}
+					52% {
+						transform: none;
+						opacity: 0.25;
+					}
+					55% {
+						transform: translate(-5px, -1px);
+						opacity: 0.5;
+					}
+					50% {
+						transform: none;
+						opacity: 0.25;
+					}
+					72% {
+						transform: none;
+						opacity: 0.25;
+					}
+					75% {
+						transform: translate(-2px, -6px);
+						opacity: 0.5;
+					}
+					80% {
+						transform: none;
+						opacity: 0.25;
+					}
+					100% {
+						transform: none;
+						opacity: 0.25;
+					}
+				}
+
+				/* GlItCh 3 */
+				@keyframes glitch3 {
+					0% {
+						transform: none;
+						opacity: 0.25;
+					}
+					7% {
+						transform: translate(2px, 3px);
+						opacity: 0.5;
+					}
+					10% {
+						transform: none;
+						opacity: 0.25;
+					}
+					27% {
+						transform: none;
+						opacity: 0.25;
+					}
+					30% {
+						transform: translate(5px, 2px);
+						opacity: 0.5;
+					}
+					35% {
+						transform: none;
+						opacity: 0.25;
+					}
+					52% {
+						transform: none;
+						opacity: 0.25;
+					}
+					55% {
+						transform: translate(5px, 1px);
+						opacity: 0.5;
+					}
+					50% {
+						transform: none;
+						opacity: 0.25;
+					}
+					72% {
+						transform: none;
+						opacity: 0.25;
+					}
+					75% {
+						transform: translate(2px, 6px);
+						opacity: 0.5;
+					}
+					80% {
+						transform: none;
+						opacity: 0.25;
+					}
+					100% {
+						transform: none;
+						opacity: 0.25;
+					}
+				}
+
+
+				/* .:: Full Stack Developer. */
+
+				.esdras-fullstack {
+					display: flex;
+					justify-content: center;
+				}
+
+				.esdras-fullstack h2 {
+					color: #000;
+					font-family: monospace;
+					text-transform: capitalize;
+					font-size: 1.3em;
+					overflow: hidden;
+					border-right: .1em solid orange;
+					white-space: nowrap;
+					margin: 0 auto;
+					letter-spacing: .1em;
+					animation: 
+						digitando 3.5s steps(30, end),
+						cursor-pisca .5s step-end infinite
+					;
+				}
+
+				/* Efeito digitando */
+				@keyframes digitando {
+					from {
+						width: 0;
+					}
+					to {
+						width: 45%;
+					}
+				}
+
+				/* Efeito cursor piscando */
+				@keyframes cursor-pisca {
+					from, to {
+						border-color: transparent;
+					}
+					50% {
+						border-color: orange;
+					}
+				}
+
+			</style>
+
+			<div xmlns="http://www.w3.org/1999/xhtml" id="esdras-glitched">
+				<h1>guilherme esdras</h1>
+				<h1>guilherme esdras</h1>
+				<h1>guilherme esdras</h1>
+			</div>
+			<div xmlns="http://www.w3.org/1999/xhtml" class="esdras-fullstack">
+				<h2>full stack developer.</h2>
+			</div>
+			
+		</div>
+	</foreignObject>
+</svg>
