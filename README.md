@@ -5,8 +5,7 @@
 <h3 align='center'> Hello There! 👋 </h3>
 
 <p align="center">
-  You can call me **Gui**! 😁
-
+  You can call me <strong>Gui</strong>! 😁
   🎓 I am a Computer Engineering student at IFPB <br/>
   👨‍💻 Full Stack developer in constant learning! 
 </p>
