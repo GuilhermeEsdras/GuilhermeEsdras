@@ -6,16 +6,16 @@
 
 - You can call me **Gui**! 😁
 
-🎓 I am a Computer Engineering student at IFPB </br>
+🎓 I am a Computer Engineering student at IFPB <br/>
 👨‍💻 Full Stack developer in constant learning! 
 
 #### 💻 Right now I'm developing my skills in...
 
-- Front End with React JS in TypeScript;
-- Databases with MongoDB and MySQL, JDBC;
-- Back End REST API's using Spring Boot in Java;
+- Front End with React in TypeScript;
+- Databases with MongoDB and MySQL;
+- Back End with Java Spring Boot;
 - Containers with Docker, and
-- Tests using Mocha, Chai, SinonJS (JavaScript) and Junit (Java).
+- Tests with Jest and JUnit.
 
 ---
 
