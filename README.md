@@ -1,6 +1,6 @@
-<!-- <h1 align="center">
+<h1 align="center">
   <img src="esdrasglitched.svg" alt="Guilherme Esdras" />
-</h1> -->
+</h1>
 
 <h3 align='center'> Hello There! 👋 </h3>
 
