@@ -10,6 +10,8 @@
   👨‍💻 Full Stack developer in constant learning!
 </p>
 
+---
+
 <details closed>
   <summary><strong>💻 Right now I'm developing with...</strong></summary>
     <br/>
