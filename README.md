@@ -7,7 +7,7 @@
 <p align="center">
   You can call me <strong>Gui</strong>! 😁 <br/>
   🎓 I am a Computer Engineering student at IFPB <br/>
-  👨‍💻 Full Stack developer in constant learning! 
+  👨‍💻 Full Stack developer in constant learning!
 </p>
 
 <details closed>
@@ -43,6 +43,13 @@
     <br/>
     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
+</details>
+
+---
+
+<details closed>
+  <summary>Wakatime Stats this Week</summary>
+  ![Guilherme Esdras's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeesdras)
 </details>
 
 ---
