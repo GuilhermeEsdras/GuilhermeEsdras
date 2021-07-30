@@ -47,10 +47,11 @@
 
 ---
 
-<details closed>
+![Guilherme Esdras's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeesdras)
+
+<!-- <details closed>
   <summary>Wakatime Stats this Week</summary>
-  ![Guilherme Esdras's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeesdras)
-</details>
+</details> -->
 
 ---
 
