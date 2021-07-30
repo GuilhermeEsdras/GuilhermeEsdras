@@ -13,7 +13,7 @@
 ---
 
 <details closed>
-  <summary><strong>💻 Right now I'm developing with...</strong></summary>
+  <summary><strong>💻 Right now my developing tools are...</strong></summary>
     <br/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
