@@ -47,11 +47,12 @@
 
 ---
 
-![Guilherme Esdras's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeesdras)
+![Guilherme Esdras's wakatime stats]()
 
-<!-- <details closed>
+<details closed>
   <summary>Wakatime Stats this Week</summary>
-</details> -->
+  <img alt="Gui Esdras's Wakatime Stats this Week" src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeesdras" />
+</details>
 
 ---
 
