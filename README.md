@@ -47,10 +47,8 @@
 
 ---
 
-![Guilherme Esdras's wakatime stats]()
-
 <details closed>
-  <summary>Wakatime Stats this Week</summary>
+  <summary><strong>Wakatime Stats this Week</strong></summary>
   <img alt="Gui Esdras's Wakatime Stats this Week" src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeesdras" />
 </details>
 
