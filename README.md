@@ -49,7 +49,7 @@
 ---
 
 <details closed>
-  <summary><strong>⌛ Wakatime Stats this Week</strong></summary>
+  <summary><strong>⌛ Wakatime Stats</strong></summary>
     <br/>
     <img alt="Gui Esdras's Wakatime Stats this Week" src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeesdras" />
 </details>
