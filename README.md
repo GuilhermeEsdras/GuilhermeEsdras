@@ -48,17 +48,11 @@
 
 ---
 
-<!-- <details closed>
+<details closed>
   <summary><strong>⌛ Wakatime Stats</strong></summary>
     <br/>
     <img alt="Gui Esdras's Wakatime Stats this Week" src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeesdras" />
-</details> -->
-
-### ⌛ Wakatime Stats
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+</details>
 
 ---
 

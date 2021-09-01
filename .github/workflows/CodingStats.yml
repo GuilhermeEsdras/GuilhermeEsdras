@@ -1,6 +1,7 @@
 name: Waka Readme
 
 on:
+  workflow_dispatch:
   schedule:
   # Roda a cada 2 horas
   - cron: "0 */2 * * *"
