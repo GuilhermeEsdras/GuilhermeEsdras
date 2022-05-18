@@ -3,7 +3,11 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				:root {
-					--red-color: #d80000;
+					--text-color: #fff;
+					--primary-red-color: #d80000;
+					--primary-blue-color: #24fcff;
+					--secondary-red-color: #f16f6f;
+					--secondary-blue-color: #67f3da;
 				}
 				
 				#esdras-glitched {
@@ -21,7 +25,7 @@
 					Times, 
 					fantasy;
 					text-align: center;
-					color: #000;
+					color: var(--text-color);
 					font-size: 3em;
 					letter-spacing: 10px;
 					font-weight: 900;
@@ -36,21 +40,21 @@
 				}
 
 				#esdras-glitched > h1:nth-child(2) {
-					color: #24fcff;
+					color: var(--primary-blue-color);
 					animation: glitch2 2.5s infinite;
 				}
 
 				#esdras-glitched > h1:nth-child(3) {
-					color: #d80000;
+					color: var(--primary-red-color);
 					animation: glitch3 2.5s infinite;
 				}
 				/* #esdras-glitched > h1:nth-child(2) {
-					color: #67f3da;
+					color: var(--secondary-blue-color);
 					animation: glitch2 2.5s infinite;
 				}
 
 				#esdras-glitched > h1:nth-child(3) {
-					color: #f16f6f;
+					color: var(--secondary-red-color);
 					animation: glitch3 2.5s infinite;
 				} */
 
@@ -233,7 +237,7 @@
 				}
 
 				.esdras-fullstack h2 {
-					color: #000;
+					color: var(--text-color);
 					font-family: monospace;
 					text-transform: capitalize;
 					font-size: 1.3em;
