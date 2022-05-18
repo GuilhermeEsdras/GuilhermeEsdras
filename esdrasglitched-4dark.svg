@@ -11,7 +11,6 @@
 				}
 				
 				#esdras-glitched {
-					/* width: 25vw; */
 					margin: 25px auto;
 				}
 
@@ -48,15 +47,6 @@
 					color: var(--primary-red-color);
 					animation: glitch3 2.5s infinite;
 				}
-				/* #esdras-glitched > h1:nth-child(2) {
-					color: var(--secondary-blue-color);
-					animation: glitch2 2.5s infinite;
-				}
-
-				#esdras-glitched > h1:nth-child(3) {
-					color: var(--secondary-red-color);
-					animation: glitch3 2.5s infinite;
-				} */
 
 				/* .::Keyframes::. */
 

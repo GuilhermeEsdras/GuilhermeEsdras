@@ -1,14 +1,14 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
   schedule:
-  # Roda as 12am
-  - cron: '30 18 * * *'
+    # Roda as 12am
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Atualiza minhas metricas no README
+    name: Atualiza minhas metricas
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
