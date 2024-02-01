@@ -99,15 +99,13 @@ Sunday                   1259 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-.env file                8 mins              █████████████████████░░░░   82.18 % 
-Vue.js                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-TypeScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -123,7 +121,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2024 18:39:32 UTC
+ Last Updated on 01/02/2024 18:40:48 UTC
 <!--END_SECTION:waka-->
 
 ---
