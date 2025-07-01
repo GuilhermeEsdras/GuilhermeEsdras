@@ -58,13 +58,11 @@
 ### ⌛ My Wakatime Dev Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C484%20hrs%2053%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 233.4 kB Used in GitHub's Storage 
+> 📦 233.5 kB Used in GitHub's Storage 
  > 
 > 🏆 11 Contributions in the Year 2025
  > 
@@ -121,7 +119,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2025 18:54:10 UTC
+ Last Updated on 01/07/2025 18:53:21 UTC
 <!--END_SECTION:waka-->
 
 ---
