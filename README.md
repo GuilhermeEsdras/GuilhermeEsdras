@@ -58,8 +58,6 @@
 ### ⌛ My Wakatime Dev Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C484%20hrs%2053%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -74,40 +72,6 @@
  > 
 > 🔑 59 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                866 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-🌆 Daytime                2480 commits        ███████░░░░░░░░░░░░░░░░░░   28.39 % 
-🌃 Evening                4128 commits        ████████████░░░░░░░░░░░░░   47.26 % 
-🌙 Night                  1260 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1067 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Tuesday                  1337 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Wednesday                1452 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Thursday                 1445 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Friday                   1119 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Saturday                 1057 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Sunday                   1257 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -121,7 +85,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2025 18:47:44 UTC
+ Last Updated on 28/09/2025 18:47:18 UTC
 <!--END_SECTION:waka-->
 
 ---
